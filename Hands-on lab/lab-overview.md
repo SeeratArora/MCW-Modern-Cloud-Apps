@@ -15,3 +15,6 @@ The Cloud Workshop: Modern Cloud Apps lab is a hands-on exercise that will chall
 ## Solution architecture
 
 ![A diagram that depicts the various Azure PaaS services for the solution. Azure AD Org is used for authentication to the call center app. Azure AD B2C for authentication is used for authentication to the client app. SQL Database for the backend customer data. Azure App Services for the web and API apps. Order processing includes using Functions, Logic Apps, Queues and Storage. Azure App Insights is used for telemetry capture.](images/Hands-onlabstep-by-step-Moderncloudappsimages/media/image2.png "Solution Architecture Diagram")
+
+
+Click on the **Next** button present in the bottom-right corner of this lab guide.
